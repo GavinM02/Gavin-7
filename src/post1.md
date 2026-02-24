@@ -1,6 +1,7 @@
 ---
-layout: layouts/base.liquid
-title: Day 47 — Silent Planet
+layout: layouts/layout.liquid
+title: First Contact
+permalink: /post1/
 ---
 
 ## Day 47 — Silent Planet

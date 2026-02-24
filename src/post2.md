@@ -1,6 +1,7 @@
 ---
-layout: layouts/base.liquid
-title: Day 112 — The Living Nebula
+layout: layouts/layout.liquid
+title: The Silent Planet
+permalink: /post2/
 ---
 
 ## Day 112 — The Living Nebula
